@@ -22,7 +22,7 @@ public class Jugador extends Futbolista{
 		return false;
 	}
 	public String toString() {
-		return super.toString()+" con el dorsal "+dorsal+".Ha marcado "+golesMarcados;
+		return super.toString()+" con el dorsal "+dorsal+". Ha marcado "+golesMarcados;
 	}
 	
 }

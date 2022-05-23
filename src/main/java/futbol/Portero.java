@@ -17,7 +17,7 @@ public class Portero extends Futbolista{
 		return true;
 	}
 	public String toString() {
-		return super.toString()+" con el dorsal "+dorsal+".Le han marcado "+golesRecibidos;
+		return super.toString()+" con el dorsal "+dorsal+". Le han marcado "+golesRecibidos;
 	}
 	
 }
